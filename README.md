@@ -16,9 +16,9 @@
 
 
 
-- 👋 Hi, I’m <img src="./assets/yszhou.png" alt="yszhou" style="width:auto; height:25px; vertical-align: middle;"> (Pronunciation like Ethan Joe).
+- 👋 Hi, I’m Yunsong Zhou (Pronunciation like Ethan Joe).
 - 👀 Please visit my homepage: https://zhouyunsong.github.io/
-- 📫 Feel free to contact me via: zhouyunsong AT sjtu.edu.cn
+- 📫 Feel free to contact me via: zhouyunsong2017 AT gmail.com
 
 <!---
 zhouyunsong/zhouyunsong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
